@@ -1,2 +1,2 @@
 # kickstarter_hackathon
-Kanois Hackathon 2018 - Kickstarter
+Kainos Hackathon 2018 - Kickstarter
